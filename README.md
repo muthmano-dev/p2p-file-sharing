@@ -1,14 +1,14 @@
-#Title: Bittorent based P2P File sharing project  
-#Course: CNT5106C Computer Networks
+# Title: Bittorent based P2P File sharing project  
+# Course: CNT5106C Computer Networks
 
-##Group number: 42
-##People:  
+## Group number: 42
+## People:  
 Muthu Kumaran Manoharan
 Shasedharan Sekaran
 Vejay Mitun Venkatachalam Jayagopal
 
 
-##To start the project:
+## To start the project:
 
 Configure the PeerInfo.cfg, Common.cfg appropriately and the file for downloading. 
 
